@@ -1,3 +1,3 @@
-``` c++
-String name = "Hello, world!";
-```
+- [x] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
