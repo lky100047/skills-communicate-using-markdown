@@ -1,1 +1,3 @@
-![cat](https://octodex.github.com/images/yaktocat.png)
+``` c++
+String name = "Hello, world!";
+```
